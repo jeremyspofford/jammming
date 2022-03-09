@@ -1,6 +1,6 @@
 
 // TODO: remove sensitive information
-const clientID = 'cd9b190ddfef4b75913bdee52e91221a';
+const clientID = process.env.REACT_APP_SPOTIFY_CLIENTID;
 // const redirectURI = 'http://localhost:3000/';
 const redirectURI = 'http://jeremyspotify.surge.sh';
 let accessToken;
