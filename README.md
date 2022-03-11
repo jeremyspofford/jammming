@@ -1,4 +1,4 @@
-This app is live at http://jeremyspotify.surge.sh 
+This app is live at https://jeremy-jammming.netlify.app 
 
 # Getting Started with Create React App
 
