@@ -1,6 +1,6 @@
 
 // TODO: remove sensitive information
-const clientID = process.env.REACT_APP_SPOTIFY_CLIENTID;
+const clientID = 'cd9b190ddfef4b75913bdee52e91221a';
 // const redirectURI = 'http://localhost:3000/';
 // const redirectURI = 'http://jeremyspotify.surge.sh';
 const redirectURI = 'https://jeremy-jammming.netlify.app';
